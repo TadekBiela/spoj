@@ -7,4 +7,5 @@ SOURCES += \
     main.cpp
 
 HEADERS += \
-    AL_20_04.h
+    AL_20_04.h \
+    PTWPZ093.h
