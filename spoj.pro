@@ -8,4 +8,5 @@ SOURCES += \
 
 HEADERS += \
     AL_20_04.h \
-    PTWPZ093.h
+    PTWPZ093.h \
+    TMUL.h
